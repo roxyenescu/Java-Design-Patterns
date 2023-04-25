@@ -6,7 +6,7 @@ import java.util.Map;
 public class Reteta implements IReteta {
 	
 	private String nume;
-	private Map<String, Float> solutii = new HashMap();
+	private Map<String, Float> solutii = new HashMap<>();
 	private float gramaj;
 	
 	public Reteta(String nume, Map<String, Float> solutii, float gramaj) {
