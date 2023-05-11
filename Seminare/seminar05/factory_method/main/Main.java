@@ -1,14 +1,14 @@
-package cts.factory_method.main;
+package factory_method.main;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import cts.factory_method.Factory;
-import cts.factory_method.FactoryAsistent;
-import cts.factory_method.FactoryInfirmier;
-import cts.factory_method.FactoryMedic;
-import cts.factory_method.Infirmier;
-import cts.factory_method.PersonalSpital;
+import factory_method.clase.Factory;
+import factory_method.clase.FactoryAsistent;
+import factory_method.clase.FactoryInfirmier;
+import factory_method.clase.FactoryMedic;
+import factory_method.clase.Infirmier;
+import factory_method.clase.PersonalSpital;
 
 public class Main {
 

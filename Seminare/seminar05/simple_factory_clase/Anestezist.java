@@ -1,4 +1,4 @@
-package cts.simple_factory_clase;
+package simple_factory_clase;
 
 public class Anestezist implements PersonalSpital {
 	

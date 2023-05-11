@@ -1,17 +1,16 @@
-package cts.factory_method;
+package simple_factory_clase;
 
 public class Medic implements PersonalSpital {
 	
 	private String nume;
-	
+
 	public Medic(String nume) {
+		super();
 		this.nume = nume;
 	}
-
-	@Override
+	
 	public void descriere() {
-		System.out.println("Medic: " + this.nume);
-		
+		System.out.println("Medicul: " + this.nume);
 	}
 
 }

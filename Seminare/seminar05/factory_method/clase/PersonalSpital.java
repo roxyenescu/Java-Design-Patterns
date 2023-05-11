@@ -1,4 +1,4 @@
-package cts.simple_factory_clase;
+package factory_method.clase;
 
 public interface PersonalSpital {
 	public void descriere();

@@ -1,13 +1,13 @@
 // PROBLEMA 2 - SPITAL
-package cts.simple_factory.main;
+package simple_factory.main;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import cts.simple_factory_clase.Asistent;
-import cts.simple_factory_clase.Factory;
-import cts.simple_factory_clase.PersonalSpital;
-import cts.simple_factory_clase.TipPersonalSpital;
+import simple_factory_clase.Asistent;
+import simple_factory_clase.Factory;
+import simple_factory_clase.PersonalSpital;
+import simple_factory_clase.TipPersonalSpital;
 
 public class Main {
 

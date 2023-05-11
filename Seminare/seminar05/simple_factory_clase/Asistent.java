@@ -1,17 +1,16 @@
-package cts.factory_method;
+package simple_factory_clase;
 
 public class Asistent implements PersonalSpital {
 	
 	private String nume;
-	
-	public Asistent (String nume) {
+
+	public Asistent(String nume) {
+		super();
 		this.nume = nume;
 	}
-
-	@Override
+	
 	public void descriere() {
-		System.out.println("Asistent: " + this.nume);
-		
+		System.out.println("Asistentul: " + this.nume);
 	}
 
 }

@@ -1,4 +1,4 @@
-package cts.factory_method;
+package factory_method.clase;
 
 public interface Factory {
 
