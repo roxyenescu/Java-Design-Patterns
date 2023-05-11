@@ -1,4 +1,4 @@
-package cts.prototype;
+package prototype.clase;
 
 import java.util.HashMap;
 import java.util.Map;

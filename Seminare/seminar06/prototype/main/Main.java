@@ -1,10 +1,10 @@
-package cts.prototype.main;
+package prototype.main;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import cts.prototype.IReteta;
-import cts.prototype.Reteta;
+import prototype.clase.IReteta;
+import prototype.clase.Reteta;
 
 public class Main {
 

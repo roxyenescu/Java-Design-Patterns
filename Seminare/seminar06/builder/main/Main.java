@@ -1,7 +1,7 @@
-package cts.builder.main;
+package builder.main;
 
-import cts.builder.Pacient;
-import cts.builder.PacientBuilder;
+import builder.clase.Pacient;
+import builder.clase.PacientBuilder;
 
 public class Main {
 

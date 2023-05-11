@@ -1,4 +1,4 @@
-package cts.prototype;
+package prototype.clase;
 
 public interface IReteta {
 	

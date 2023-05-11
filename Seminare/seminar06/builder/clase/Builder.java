@@ -1,4 +1,4 @@
-package cts.builder;
+package builder.clase;
 
 public interface Builder {
 
